@@ -1,0 +1,32 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu,,,,,,,,,,,,,,,,,,
+# Thu Oct 27 08:34:53 2022,,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,,
+# COLUMN sourceid:       Source ID,,,,,,,,,,,,,,,,,,
+# COLUMN obs_year:       Survey Year,,,,,,,,,,,,,,,,,,
+# COLUMN bulge:          Galactic Bulge Region,,,,,,,,,,,,,,,,,,
+# COLUMN field:          Field ID,,,,,,,,,,,,,,,,,,
+# COLUMN ccdid:          CCD ID,,,,,,,,,,,,,,,,,,
+# COLUMN ra:             RA [decimal degrees],,,,,,,,,,,,,,,,,,
+# COLUMN dec:            Dec [decimal degrees],,,,,,,,,,,,,,,,,,
+# COLUMN hjdstart:       Start HJD [days],,,,,,,,,,,,,,,,,,
+# COLUMN hjdstop:        End HJD [days],,,,,,,,,,,,,,,,,,
+# COLUMN h_mag:          H-band [mag],,,,,,,,,,,,,,,,,,
+# COLUMN k_mag:          K-band [mag],,,,,,,,,,,,,,,,,,
+# COLUMN npts:           Points in Light Curve,,,,,,,,,,,,,,,,,,
+# COLUMN k2c9_flag:      K2 Campaign 9 Field Overlap Flag,,,,,,,,,,,,,,,,,,
+# COLUMN ukirt_evt_flag: UKIRT Event Flag,,,,,,,,,,,,,,,,,,
+# COLUMN ogle_evt_flag:  OGLE Event Flag,,,,,,,,,,,,,,,,,,
+# COLUMN moa_evt_flag:   MOA Event Flag,,,,,,,,,,,,,,,,,,
+# COLUMN statnpts:       Points in Statistics Calculation,,,,,,,,,,,,,,,,,,
+# COLUMN minvalue:       Minimum Value of Light Curve [mag],,,,,,,,,,,,,,,,,,
+# COLUMN maxvalue:       Maximum Value of Light Curve [mag],,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,,
+sourceid,obs_year,bulge,field,ccdid,ra,dec,hjdstart,hjdstop,h_mag,k_mag,npts,k2c9_flag,ukirt_evt_flag,ogle_evt_flag,moa_evt_flag,statnpts,minvalue,maxvalue
+ukirt_c_2016_s_84_4_0011128,2016,s,84,4,267.670632,-27.786195,7487.11294,7577.89358,14.729,,150,0,1,0,0,150,1.36E+01,1.50E+01
+ukirt_c_2016_s_71_4_0041372,2016,s,71,4,267.767546,-28.793953,7487.10295,7577.93113,14.077,,131,0,1,1,0,131,1.39E+01,1.42E+01
+ukirt_c_2016_s_71_4_0024948,2016,s,71,4,267.602513,-28.842591,7487.10295,7577.93113,15.022,,154,0,1,0,0,154,1.48E+01,1.52E+01
+ukirt_c_2016_s_71_1_0016665,2016,s,71,1,267.586949,-29.315448,7487.10295,7577.93113,12.972,,154,0,1,1,0,154,1.21E+01,1.38E+01
+ukirt_c_2016_s_84_1_0075956,2016,s,84,1,267.610391,-28.045674,7487.11294,7577.89358,14.844,,151,0,1,0,0,151,1.41E+01,1.50E+01
+ukirt_c_2016_s_71_4_0020618,2016,s,71,4,267.772111,-28.856786,7487.10295,7577.93113,16.321,,145,0,1,0,0,145,1.56E+01,1.68E+01
+ukirt_c_2016_s_81_1_0072182,2016,s,81,1,267.71218,-28.281811,7487.10851,7577.93648,14.329,,152,0,1,0,0,152,1.38E+01,1.46E+01
+ukirt_c_2016_s_74_4_0057802,2016,s,74,4,267.704476,-28.549154,7487.10717,7577.93515,14.63,,153,0,1,1,0,153,1.36E+01,1.54E+01
